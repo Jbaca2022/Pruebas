@@ -1,0 +1,12 @@
+.block{
+    display: inline-block;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border-style: groove;
+    border-radius: 8px;
+}
+.contenedor{
+    height: 50%;
+    text-align: center;
+}
